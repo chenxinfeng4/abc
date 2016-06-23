@@ -1,6 +1,3 @@
-#陈昕枫2016-6-23
-#this is a test module
-##a='a'
 ##b='b'
 ##if a=='a':
 ##    print('eex')
