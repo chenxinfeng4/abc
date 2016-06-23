@@ -1,3 +1,4 @@
+#陈昕枫2016-6-23
 #this is a test module
 ##a='a'
 ##b='b'
@@ -17,7 +18,7 @@ def foo(arg1,arg2='cxf',*tr):
     'display 2 regular ,and key value'
     print(arg1,arg2)
     for namei in tr:
-        print('�䳤: %s= %s' % (namei,'+++'))
+        print('±ä³¤: %s= %s' % (namei,'+++'))
 
 a=foo(3)
 a=foo(3,'34')
